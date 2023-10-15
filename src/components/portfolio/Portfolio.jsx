@@ -17,7 +17,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PRJ1} alt="IMG" />
           </div>
-          <h3>Movizz</h3>
+          <h3>Portfolio Website</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/hg3748432/ReactProjects" className='btn' target='_blank' rel="noreferrer">Github</a>
             <a href="https://react-project2-iota.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
@@ -27,20 +27,20 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PRJ2} alt="IMG" />
           </div>
-          <h3>Todo</h3>
+          <h3>Color picker</h3>
           <div className="portfolio__item-cta">
             <a href="https://color-indol.vercel.app/" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://react-project5-3eh7.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://color-indol.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={PRJ3} alt="IMG" />
           </div>
-          <h3>Netflix Homepage</h3>
+          <h3>Age Calculator</h3>
           <div className="portfolio__item-cta">
             <a href="https://react-project5-3eh7.vercel.app/" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://color-indol.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://react-project5-3eh7.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
 
